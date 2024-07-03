@@ -19,6 +19,7 @@ namespace WpfAEwSA
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine("...");
         }
     }
 }
